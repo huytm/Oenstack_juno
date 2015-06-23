@@ -374,6 +374,10 @@ export OS_PASSWORD=osjuno123a@
 export OS_AUTH_URL=http://10.10.10.200:35357/v2.0
 ```
 
+**Load script biến môi trường**
+
+`source admin-openrc.sh`
+
 ####7. Cài đặt Glance
 
 Glance - Image Service là một project để quản lý (tạo, sửa, xóa) các file image phục vụ cho quá trình launch máy ảo trong hệ thống Openstack.
